@@ -1,0 +1,19 @@
+r:\exLAHomework4\exLAHomework4\bin\Debug\exLAHomework4.exe.config
+r:\exLAHomework4\exLAHomework4\bin\Debug\exLAHomework4.exe
+r:\exLAHomework4\exLAHomework4\bin\Debug\exLAHomework4.pdb
+r:\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.csprojResolveAssemblyReference.cache
+r:\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.Form1.resources
+r:\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.Properties.Resources.resources
+r:\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.csproj.GenerateResource.Cache
+r:\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.exe
+r:\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.pdb
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\bin\Debug\exLAHomework4.exe.config
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\bin\Debug\exLAHomework4.exe
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\bin\Debug\exLAHomework4.pdb
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.csproj.AssemblyReference.cache
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.Form1.resources
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.Properties.Resources.resources
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.csproj.GenerateResource.cache
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.csproj.CoreCompileInputs.cache
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.exe
+F:\大學\All C#\exLAHomework4\exLAHomework4\exLAHomework4\obj\Debug\exLAHomework4.pdb

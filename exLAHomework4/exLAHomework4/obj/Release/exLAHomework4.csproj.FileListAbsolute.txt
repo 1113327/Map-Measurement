@@ -1,0 +1,10 @@
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\bin\Release\exLAHomework4.exe.config
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\bin\Release\exLAHomework4.exe
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\bin\Release\exLAHomework4.pdb
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\obj\Release\exLAHomework4.csproj.AssemblyReference.cache
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\obj\Release\exLAHomework4.Form1.resources
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\obj\Release\exLAHomework4.Properties.Resources.resources
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\obj\Release\exLAHomework4.csproj.GenerateResource.cache
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\obj\Release\exLAHomework4.csproj.CoreCompileInputs.cache
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\obj\Release\exLAHomework4.exe
+C:\Users\guanj\git repos\Map-Measurement\exLAHomework4\exLAHomework4\obj\Release\exLAHomework4.pdb
